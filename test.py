@@ -23,12 +23,6 @@ gc = gspread.authorize(credentials).open('[eveni] 지원팀 데이터')
 data= gc.worksheet('시트3')
 records_data = data.get_all_records()
 records_df = pd.DataFrame.from_dict(records_data)
-
-import pandas as pd
-import numpy as np
-records_df = pd.DataFrame.from_dict(records_data)
-
-
 records_df["시간"] = records_df["시간"].astype(str)
 records_df = records_df.replace('', np.NaN)
 # view the top records
@@ -36,7 +30,7 @@ records_df.rename(columns = {'컨설팅일자':'class_date', '시간':'class_tim
 
 
 credentials = service_account.Credentials.from_service_account_file(json_file_name)
-records_df.to_gbq('eveni.test', project_id='eveni-database, chunksize=None, reauth=False , if_exists='fail', credentials = credentials)
+records_df.to_gbq('eveni.test', project_id='eveni-database', chunksize=None, reauth=False , if_exists='fail', credentials = credentials)
 
 #query = "SELECT * FROM `dataset.table`"
 #df = pd.read_gbq(query=query, project_id="project_id", credentials=credentials, dialect='standard')
