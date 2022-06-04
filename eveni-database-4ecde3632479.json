@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eveni-database",
+  "private_key_id": "4ecde363247971d01f85b9f2ca469d85ae0fee54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWBPCh7AQI6P+o\nUuLShmEEVljDZDJMojbXYn0G9od6FxmdQTRQhWOjlh6cfU4F/HkcphQnlw1mF3TR\npW2EiLFUbNU/DGgAF8v5pukXCfewyvxn0DnDB9IpnQQZMWl6dgDjCfL+5LQgDva8\nn17l0FVy5cQHIutNaYJBNkExLzQ3+kWItFbtNwNBLKf2Bg1hLBEEaLkQ6/1OHhhB\nI5PonPqVhSPNLcb9IA+T+s/tlW5XPSIGcGQscFXQ8jWwaWXwOIXTAGP2Wk3w07yi\nb8ROTNY8dfqieeDXrSv3EXYVNr3HrrHgag5jat4iReZTanpE1S7/mYJFp+brS9lD\nNo9thIHJAgMBAAECggEACjPRzaFIcPavlFn2tQyQgoQAy2EADrgldKZtDFEty37Q\nriImFafMq+5krI3VBZEzB2DAFCUwsxW7SxquBQpqzOwN4JjOZds4cwUH6xoxbyOO\n4NyHYR0iDNRx1+jFXJ+z1bzyeqVBHsEFxLQt9wEhHoxDtZyJVh1rz1WKP3cPXRMc\ngsfZ48o5jmdg1YbMWo9xDK4ZS72Itza/Ih+j1khw1B1e7UCIyEPOgSImO9wcYS+r\nmb3nth+4RU5EyO2B37g3MrMjFK7cWFu2BjYD4dYmZSWmvd+L6BbVij0Ocfai5nP+\nY3AZ+0JgY2BxxfUtAGVGi0Tnt0o7zBSF1H6p9YHAJQKBgQDM/WOgvEQprhwmNO1t\n/inuXqR/38I1fj9yZC4w7YS6Jqkf47E2fNTKVkviFhg2VFfJKBYXIqXBnPNHnQ3j\nhjyssmjhuQBNjy5fI9qg0a6ggc3M6Dl5TISjQOFh3C3/BMzAZsg0tVilvLtjU5Sz\nbYmlp4XuMhPSpSC/iIw/B85dQwKBgQC7WbnIw6NWEDmeXR5CJQt2cTPTiVcD6AZC\nj4ulYh9AsDZOFflun9nYHNlMCgO5Zsb5jkFng+/Gockpvfz6ciKCK+NIH3y/7HhB\nLqCBhVjBHQuNY4EI2YSvelxhtIVHK7ZqIISl2bQK642MG94bh2Ic7YDw08Sb7IwP\ngRWU6SVOAwKBgQCnHij74KCdblGKoHm0w5IBwGzRx2U4YS1un9e8kdc0P9J/qgxO\nhKSiNIp2zlZ87HQJDcI8qEWEO+VmS9cH1+ddT7IL29wwXvuKGtvhYjDAsDJMzEIW\n7tfvlDRqqKtjDdGzRdgQiIu1ytDmYDyJr1KZl6Krl23rvC2fmL3loQKPqwKBgQCv\nc9zwLn9FtxYuv+f5a/XrKyKtBV6vMtjB9uqBrH22OA/zWtLojd0WbhX2Bx7rv1uy\nFE4eIkooDBV2+Qz0gnTc0TsdrRdIKa2I5aC9C2NOHuRVugz6e7KuH3pqqgNy3nYL\nt35iT5oz69r4jpSX1VbF3oq1fq0OlR2p22qZtSoRfwKBgGQX2Xyb5jGkNz+5T4fH\nZTCbVGZLG0yRT75WJn+6LG3m2ApeoIJb8J4zeOt7hhVNgB5gvhykNeC0nwgrXGVS\nWNFJULMUfbc/IcIV2T398Qbdety47grVY8bhC/x3P2jFFJvlK2/atfusTuslF0Gk\nKvlZi6heN5DsBnYTWEbP2CzU\n-----END PRIVATE KEY-----\n",
+  "client_email": "eveni-db@eveni-database.iam.gserviceaccount.com",
+  "client_id": "104396161665597869344",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eveni-db%40eveni-database.iam.gserviceaccount.com"
+}
